@@ -5,7 +5,7 @@ The goal is to generate valid schedules with **15–18 credits** while minimizin
 
 ---
 
-## 🚀 Features
+## Features
 - Random initial schedule generation without overlapping classes
 - Evaluation function based on:
   - Daily gaps (공강 최소화)
@@ -16,5 +16,3 @@ The goal is to generate valid schedules with **15–18 credits** while minimizin
   - Duplicate handling with penalty in evaluation
 
 ---
-
-## 🛠 Project Structure
